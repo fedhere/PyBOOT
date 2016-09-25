@@ -36,16 +36,15 @@
 
 9 plotting
 
-10 __interacting with os
- - import os
- - glob__
+10 __interacting with os__
+ - __os module__
+ - __glob module__
  
 11 functions (palindrome exercise)
  - define a function
  - return values
  - arguments of functions 
  
-12 __inline arguments
- (good morning /good night with name)
- 
+12 __inline arguments__
+  Exercise [printGoodmorningGoodnigntExercise.py](printGoodmorningGoodnigntExercise.py)
 13 __exceptions and error handling__
