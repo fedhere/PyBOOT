@@ -22,30 +22,30 @@
 7 list operations and array operations
  - combining lists by sum
  - combining strings
- - overloading
+ - __overloading__
  - multiplying arrays by floats
- - multiplying arrays with each other
+ - __multiplying arrays with each other__
  - summing subtracting by elements
- - cross product
- - dot product
+ - __cross product__
+ - __dot product__
  
 8 loops
  - for loop (write all char in string)
- - reverse loop
  - enumerate (calendar exercise)
  - list comprehension (exercise on even numbers)
 
 9 plotting
 
-10 interacting with os
+10 __interacting with os
  - import os
- - glob
+ - glob__
  
-11 functions 
- - Define a function is_palindrome() that recognizes palindromes (i.e. words that look the same written backwards). For example, is_palindrome("radar") should return True.
+11 functions (palindrome exercise)
+ - define a function
+ - return values
+ - arguments of functions 
  
-12 inline arguments
- - good morning /good night with name
- - write a program that takes a string, and replaces every comma with an exclamation mark
+12 __inline arguments
+ (good morning /good night with name)
  
-13 exceptions 
+13 __exceptions and error handling__
