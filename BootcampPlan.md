@@ -9,8 +9,8 @@
 
 2 numpy types
   - arrays
-  - np.int32, np.float64 http://stackoverflow.com/questions/9696660/what-is-the-difference-between-int-int16-int32-and-int64
-
+  - np.int32, np.float64 
+  
 3 ifs and elses
 
 4 array operations by axis (bus time table exercise)
@@ -46,5 +46,7 @@
  - arguments of functions 
  
 12 __inline arguments__
-  Exercise [printGoodmorningGoodnigntExercise.py](printGoodmorningGoodnigntExercise.py)
+  
 13 __exceptions and error handling__
+
+__Exercise [printGoodmorningGoodnigntExercise.py](printGoodmorningGoodnigntExercise.py)__
