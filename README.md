@@ -12,4 +12,4 @@
  There is also an exercise to practice for loops, and practice scripting, inline arguments, exception handling, and the time module, but we did not get to most of those topics: [printGoodmorningGoodnigntExercise.py](printGoodmorningGoodnigntExercise.py)
  
 ## Suggestions are more than welcome! 
-## Feedback can be left here _anonymously_ [here](https://github.com/fedhere/PyBOOT)
+## Feedback can be left here _anonymously_ [here](http://cosmo.nyu.edu/~fb55/PUI2016/PyBOOTfeedback.html)
