@@ -1,5 +1,5 @@
 # PyBOOT
-##author: Federica Bianco
+## author: Federica Bianco
  this is all the material developed for the CUSP NYU 2016 Python Bootcamp (September 24th 2016. 
  All the material is designed by me (taking much inspiration a number of internet resources including [http://software-carpentry.org/](http://software-carpentry.org/), [http://www.practicepython.org/](http://www.practicepython.org/) and many more.
 
