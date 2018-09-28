@@ -5,11 +5,11 @@
 
  The list of topics I wanted to cover is in [bootcampNB.md](bootcampNB.md); entries written in bold were not covered
  
- A single notebook with the code written in class was generated : [inclassNB.ipynb](inclassNB.ipynb)
+ A single notebook with the code written in class was generated : [inclassNB2016.ipynb](inclassNB2016.ipynb) [inclassNB2017.ipynb](inclassNB2017.ipynb)
  
  I added an exercise to practice for loops, and printing : [LoopExercise.ipynb](LoopExercise.ipynb)
 
  There is also an exercise to practice for loops, and practice scripting, inline arguments, exception handling, and the time module, but we did not get to most of those topics: [printGoodmorningGoodnightExercise.py](printGoodmorningGoodnightExercise.py)
  
 ## Suggestions are more than welcome! 
-## Feedback can be left here _anonymously_ [here](http://cosmo.nyu.edu/~fb55/PyBOOTfeedback.html)
+## Feedback can be left here _anonymously_ [here](https://goo.gl/forms/D4dQZKfsS3hgdeHg2)
