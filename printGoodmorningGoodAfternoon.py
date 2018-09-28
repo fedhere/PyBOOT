@@ -25,7 +25,7 @@ def printContent(timeNow, name = "You"):
     return "Good Afternoon " + name
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1 and sys.argv[1] == 'help':
+    if (len(sys.argv) > 1 and sys.argv[1] == 'help') or len(sys.argv) == 1:
         print ('''
     write a script that prints to standard output "Good Morning <Name>" if before 1PM
     prints to standard output "Good Afternoon <Name>" if after 1PM

@@ -1,9 +1,11 @@
 '''
 Federica Bianco CUSP NYU 2016
-written for CUSP Python Bootcamp September 24 2016, revised for bootcamp 09/30/2017
-EXERCISE:
-write a script that prints to standard output "Good Morning <Name>" if before 1PM
-prints to standard output "Good Afternoon <Name>" if after 1PM
+written for CUSP Python Bootcamp September 24 2016, 
+revised for bootcamp 09/30/2017, 
+revised for bootcamp 09/28/2018
+EXERCISE: 
+write a script that prints to standard output "Good afternoon <Name>" if before 6PM
+prints to standard output "Good evening <Name>" if after 6PM
 where <Name> is the user name input intline
 '''
 
@@ -22,10 +24,12 @@ def printContent(timeNow, name = "You"):
     return greetings
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1 and sys.argv[1] == 'help':
+    #sys.argv is the container that holds all arguments passed to python
+    # it is a list
+    if (len(sys.argv) > 1 and sys.argv[1] == 'help') or len(sys.argv) == 1:
         print ('''
-    write a script that prints to standard output "Good Morning <Name>" if before 1PM
-    prints to standard output "Good Afternoon <Name>" if after 1PM
+    write a script that prints to standard output "Good Afternoon <Name>" if before 6PM
+    prints to standard output "Good Evening <Name>" if after 6PM
     where <Name> is the user name input intline
     
     if you can: make sure it works with both python 2 and 3

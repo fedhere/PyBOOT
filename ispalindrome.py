@@ -9,11 +9,13 @@ def lookForPal(string):
     # that way I can just compare if the string and its reverse are the same
     # if I didnt do that Hannah would not look like a palindrom
     if string.lower() == string.lower()[::-1]: 
-        #if len(string) % 2 :
-        #    halfpal = string[:int(len(string) / 2 + 1)]
-        #else: 
-        #    halfpal = string[:int(len(string) / 2)] 
-        # I need to make sure I print the unique half of the word whether it has even or odd number of characters
+         # I need to make sure I print the unique half of the word 
+         # whether it has even or odd number of characters
+        if len(string) % 2 :
+            halfpal = string[:int(len(string) / 2 + 1)]
+        else: 
+            halfpal = string[:int(len(string) / 2)] 
+        
         halfpal = string[:int((float(len(string)) / 2.0) + 0.5)]
         print ("Yes its a palindrome", halfpal)
         return (1)
