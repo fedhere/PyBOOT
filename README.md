@@ -1,6 +1,6 @@
 # PyBOOT
 ## author: Federica Bianco
- this is all the material developed for the CUSP NYU 2016 Python Bootcamp (September 24th 2016) and updated for following years.
+ this is all the material developed for the CUSP NYU 2016-2017 Python Bootcamp and updated for following years through 202 for the SPPA667 Biden School of Public Policy and Administration class 2020.
  All the material is designed by me (taking much inspiration a number of internet resources including [http://software-carpentry.org/](http://software-carpentry.org/), [http://www.practicepython.org/](http://www.practicepython.org/) and many more.
 
  The list of topics I wanted to cover is in [bootcampNB.md](bootcampNB.md); entries written in bold were not covered
