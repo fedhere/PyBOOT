@@ -12,6 +12,7 @@
 - Simple math with numpy 
 - Reading in files and working with pandas
 - Visualizing data with Matplotlib
+
 =====================
 - Slicing and Broadcasting: Effectivly with numpy
 - Pep 8 and docstrings
