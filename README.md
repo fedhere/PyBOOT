@@ -25,6 +25,8 @@
 ============================
 
 this is all the material developed originally for the CUSP NYU 2016-2017 Python Bootcamp and updated for following years through 202 for the SPPA667 Biden School of Public Policy and Administration class 2020.
+The course is run thorough google colab, so all that the particpants need is a browser enabled device and a computer connection (no package installation required any more)
+
  All the material is designed by me (taking much inspiration a number of internet resources including [http://software-carpentry.org/](http://software-carpentry.org/), [http://www.practicepython.org/](http://www.practicepython.org/) and many more.
 
  The list of topics I wanted to cover is in [bootcampNB.md](bootcampNB.md); entries written in bold were not covered
