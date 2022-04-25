@@ -15,7 +15,7 @@
 - Visualizing data with Matplotlib
 
 **Day 2**
-- Slicing and Broadcasting: Effectivly with numpy
+- Slicing and Broadcasting: working effectivly with Numpy
 - Pep 8 and docstrings
 - Dataframes manipulation: merges and pivot tables
 - Classes and objects
