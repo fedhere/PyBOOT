@@ -16,7 +16,7 @@
 =====================
 - Slicing and Broadcasting: Effectivly with numpy
 - Pep 8 and docstrings
-- Dataframes manipulation: merge
+- Dataframes manipulation: merges and pivot tables
 - Maps with python (if there is interest)
 
 this is all the material developed for the CUSP NYU 2016-2017 Python Bootcamp and updated for following years through 202 for the SPPA667 Biden School of Public Policy and Administration class 2020.
