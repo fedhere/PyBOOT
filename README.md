@@ -6,12 +6,12 @@
 **Day 1**
 - What is a variable and native python variables
 - Lists and Strings: simple variable containers
-- Arrays and Dictionary: more complex variable containtes
+- Arrays and Dictionary: more complex variable containers
 - Control Flow: if, else, and elif statements
 - Loops
 - Functions
 - Reading in files and working with Pandas
-- Simple math with Numpy 
+- Simple math with Numpy
 - Visualizing data with Matplotlib
 
 **Day 2**
