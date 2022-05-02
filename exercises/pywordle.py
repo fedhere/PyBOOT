@@ -22,11 +22,16 @@ def comparestrings(guess, word=None):
   """
   result = ['_', '_', '_', '_', '_']
   
+  # get the target word
   if word is None:
     import wordle
     word = wordle.word
+    
+  #set both guess and target to upper case
+  word = word.upper()
+  guess = guess.upper()
 
-
+  #check word length first
   if not len(guess) == len(word):
     print("word must be 5 characters")
     return
@@ -35,8 +40,8 @@ def comparestrings(guess, word=None):
       result[i] = guess[i]
     elif guess[i] in word:
       result[i] = '*'
-  #print(list(word))
-  
+
+  #check and validate each letter
   if not '_' in result and not '*' in result:
     print ("GENIUS!! you did it!!")
   else :
