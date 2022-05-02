@@ -12,9 +12,11 @@ Written by FBB April 2022 for PyBOOT
 
 def comparestrings(guess, word=None):
   """ compares a given 5-character string with a chosen target letter by letter
+  
   Input:
     guess: 5-character string - the users guess
     word (optional): 5-character string - the target - if a string is not passed the code looks for a "wordle.py" module with the definition of word
+    
   Output:
     returns a string with each correct character in the right place visible, each correct chaeracter in the wrong place marked by a "*"
   """
